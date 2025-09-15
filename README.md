@@ -2,20 +2,16 @@
 
 
 ## 📖 Abstract
-This project applies advanced SQL querying to the UEFA Euro Cup 2016 dataset, which contains detail about teams, players, referees, venues, goals, bookings, substitutions, and match outcomes. The objective was to practice SQL pattern recognition and aggregation by answering a set of 20 analytical questions about tournament play.
-
-Tasks included:
-
-* Writing queries to extract key match facts (start date, matches ending in penalty shootouts, stoppage time conditions).
-
-* Building aggregations such as substitution counts by stage, goals scored by position, and bookings by referee.
-
-* Performing joins across multiple tables (for example, match_mast, player_mast, goal_details) to link players, clubs, and match events.
-
-* Identifying top referees by bookings and matches officiated, and venues where critical events occurred.
-
-* Producing player-specific reports, such as Liverpool F.C. players representing England or Germany's group-stage goalkeepers.
-
+This project applies advanced SQL querying to the UEFA Euro Cup 2016 dataset, which contains detail about teams, players, referees, venues, goals, bookings, substitutions, and match outcomes. The objective was to practice SQL pattern recognition and aggregation by answering a set of 20 analytical questions about tournament play.
+
+Tasks included:
+
+- Writing queries to extract key match facts (start date, matches ending in penalty shootouts, stoppage time conditions).
+- Building aggregations such as substitution counts by stage, goals scored by position, and bookings by referee.
+- Performing joins across multiple tables (for example, match_mast, player_mast, goal_details) to link players, clubs, and match events.
+- Identifying top referees by bookings and matches officiated, and venues where critical events occurred.
+- Producing player-specific reports, such as Liverpool F.C. players representing England or Germany's group-stage goalkeepers.
+
 Each query was written as a standalone .sql script, following naming conventions (sql_q<num>_sol.sql). The project reinforced advanced SQL concepts such as multi-table joins, filtering, grouping, and set-based logic, while also providing domain insights into tournament dynamics and player performance.
 
 
@@ -100,4 +96,4 @@ Sample screenshot of query result output (one of 20 queries; all outputs validat
 
 
 
-*Generated automatically via Python + Jinja2 + SQL Server table `tblMiniProjectProgress` on 09-15-2025 00:57:48*
+*Generated automatically via Python + Jinja2 + SQL Server table `tblMiniProjectProgress` on 09-15-2025 18:03:49*
