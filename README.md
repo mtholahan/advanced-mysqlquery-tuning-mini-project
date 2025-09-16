@@ -56,22 +56,53 @@ Each query was written as a standalone .sql script, following naming conventions
 
 ## 📸 Evidence
 
-![eurocup_queries.png](./evidence/eurocup_queries.png)  
-Screenshot of SQL solution scripts executed in MySQL Workbench
-
-![eurocup_results.png](./evidence/eurocup_results.png)  
-Sample screenshot of query result output (one of 20 queries; all outputs validated against rubric)
+![SQL_Script_Solutions.png](./evidence/SQL_Script_Solutions.png)  
+Screenshot of 20 SQL Scripts
 
 
 
 
 ## 📎 Deliverables
 
-- [`- 20 SQL solution scripts in /deliverables/sql/`](./deliverables/- 20 SQL solution scripts in /deliverables/sql/)
+- [`sql_q10_sol.sql`](./deliverables/sql_q10_sol.sql)
 
-- [`- README with explanation of schema and queries`](./deliverables/- README with explanation of schema and queries)
+- [`sql_q11_sol.sql`](./deliverables/sql_q11_sol.sql)
 
-- [`- Evidence screenshots in /evidence/`](./deliverables/- Evidence screenshots in /evidence/)
+- [`sql_q12_sol.sql`](./deliverables/sql_q12_sol.sql)
+
+- [`sql_q13_sol.sql`](./deliverables/sql_q13_sol.sql)
+
+- [`sql_q14_sol.sql`](./deliverables/sql_q14_sol.sql)
+
+- [`sql_q15_sol.sql`](./deliverables/sql_q15_sol.sql)
+
+- [`sql_q16_sol.sql`](./deliverables/sql_q16_sol.sql)
+
+- [`sql_q17_sol.sql`](./deliverables/sql_q17_sol.sql)
+
+- [`sql_q18_sol.sql`](./deliverables/sql_q18_sol.sql)
+
+- [`sql_q19_sol.sql`](./deliverables/sql_q19_sol.sql)
+
+- [`sql_q1_sol.sql`](./deliverables/sql_q1_sol.sql)
+
+- [`sql_q20_sol.sql`](./deliverables/sql_q20_sol.sql)
+
+- [`sql_q2_sol.sql`](./deliverables/sql_q2_sol.sql)
+
+- [`sql_q3_sol.sql`](./deliverables/sql_q3_sol.sql)
+
+- [`sql_q4_sol.sql`](./deliverables/sql_q4_sol.sql)
+
+- [`sql_q5_sol.sql`](./deliverables/sql_q5_sol.sql)
+
+- [`sql_q6_sol.sql`](./deliverables/sql_q6_sol.sql)
+
+- [`sql_q7_sol.sql`](./deliverables/sql_q7_sol.sql)
+
+- [`sql_q8_sol.sql`](./deliverables/sql_q8_sol.sql)
+
+- [`sql_q9_sol.sql`](./deliverables/sql_q9_sol.sql)
 
 
 
@@ -95,5 +126,4 @@ Sample screenshot of query result output (one of 20 queries; all outputs validat
 - Remove SQL solution scripts if storing only in GitHub
 
 
-
-*Generated automatically via Python + Jinja2 + SQL Server table `tblMiniProjectProgress` on 09-15-2025 19:26:48*
+*Generated automatically via Python + Jinja2 + SQL Server table `tblMiniProjectProgress` on 09-16-2025 12:32:19*
