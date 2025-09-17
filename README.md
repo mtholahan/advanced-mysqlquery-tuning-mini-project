@@ -56,7 +56,7 @@ Each query was written as a standalone .sql script, following naming conventions
 
 ## 📸 Evidence
 
-![SQL_Script_Solutions.png](./evidence/SQL_Script_Solutions.png)  
+![01_SQL_Script_Solutions.png](./evidence/01_SQL_Script_Solutions.png)  
 Screenshot of 20 SQL Scripts
 
 
@@ -126,4 +126,4 @@ Screenshot of 20 SQL Scripts
 - Remove SQL solution scripts if storing only in GitHub
 
 
-*Generated automatically via Python + Jinja2 + SQL Server table `tblMiniProjectProgress` on 09-17-2025 14:48:32*
+*Generated automatically via Python + Jinja2 + SQL Server table `tblMiniProjectProgress` on 09-17-2025 14:50:06*
